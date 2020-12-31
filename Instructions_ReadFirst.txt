@@ -1,0 +1,5 @@
+1. Password for login : geu123  (can change after logging)
+
+2. Make sure you have downloaded all the files in this folder on your local machine before running the application.
+
+3. The source code is written in Code Blocks and the language used is C. 
